@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079322077192",
+    "firebase_url": "https://demodua-b78f3.firebaseio.com",
+    "project_id": "demodua-b78f3",
+    "storage_bucket": "demodua-b78f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079322077192:android:893a7bb4c6edd5e9d209bd",
+        "android_client_info": {
+          "package_name": "com.mantis.tech.dua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079322077192-ek12f6gckgr210n98mnfs5p1fgk7rivp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvYYz9Es2ngdHtN3jwRGov52EjiM9VoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079322077192-ek12f6gckgr210n98mnfs5p1fgk7rivp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
